@@ -24,10 +24,10 @@ What happens when there are many water molecules near each other? The polarity o
 
 
 Some topics to cover in part 2:
-Hydrophobic
-Hydrophilic
-Cohesive forces
-Adhesive forces
-Contact angle
-Examples of different types of surfaces
+* Hydrophobic
+* Hydrophilic
+* Cohesive forces
+* Adhesive forces
+* Contact angle
+* Examples of different types of surfaces
 
