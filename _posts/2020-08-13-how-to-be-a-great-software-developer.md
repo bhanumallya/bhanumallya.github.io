@@ -6,6 +6,7 @@ title: How to become a great software developer
 Those new to the world of software development may find things a little unstructured. There are thousands of technologies, hundreds of frameworks, dozens of programming languages, and libraries. Now, you weave in and out of all this mess and gather a little experience along the way. Slowly, you figure out what fits with what and the jargon assembles into neat compartments.
 
 The art of Software Engineering has grown tremendously over the last decade. With systems at scale serving billions of users, DevOps has become a job title in itself. Just writing code doesn’t cut it anymore and a great software developer is expected to know how to scale the system.
+
 With that said, say you were tasked with or have picked up a problem that requires you to produce software infrastructure as an output. There would be the following sequence of execution items:
 
 + a)	Understand the domain.
