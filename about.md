@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I live in Bangalore, India developing software full time.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bhanuprakash.mallya@gmail.com](mailto:bhanuprakash.mallya@gmail.com)
